@@ -6,7 +6,7 @@ A program made in C++ that recommends an optimal Wordle guess using a Binary Sea
 ## Features
 * Word recommender that suggests the best guess from previous guesses
 * Wordle pattern matching that eliminates invalid words after guesses
-* Binary Search Tree using insert, search, remove, and an in-order traversal
+* Uses a Binary Search Tree using insert, search, remove, and an in-order traversal
 
 <hr> 
 
