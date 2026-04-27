@@ -23,3 +23,14 @@ make wordle_server
 make run_server
 ```
 
+<hr>
+
+## Video Demonstration
+* A demonstration of how Wordle Helper runs (web app)
+
+https://github.com/user-attachments/assets/0cf24913-8fba-4dde-8c54-04b07ad53c6c
+
+
+
+
+
