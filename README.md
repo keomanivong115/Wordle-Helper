@@ -10,6 +10,12 @@ A program made in C++ that recommends an optimal Wordle guess using a Binary Sea
 
 <hr> 
 
+## Tools Used
+* C++
+* Ubuntu
+* Visual Studio Code
+
+
 ## How to Run
 
 #### Run the Wordle Helper
